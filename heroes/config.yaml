@@ -1,0 +1,6 @@
+database:
+  username: "heroes_user"
+  password: "heroes"
+  host: "172.17.0.2"
+  port: 5432
+  databaseName: "heroes"
